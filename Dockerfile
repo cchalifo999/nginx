@@ -6,4 +6,4 @@ RUN mkdir -p /usr/share/nginx/html/ks
 RUN mkdir -p  /usr/share/nginx/html/rocky/8.7
 RUN ls -la /etc/nginx/
 RUN ls -la /usr/share/nginx/html
-run ls -la /usr/share/nginx/html/ks
+RUN ls -la /usr/share/nginx/html/ks
